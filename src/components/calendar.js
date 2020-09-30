@@ -10,7 +10,7 @@ import {
     TouchableOpacity,
     ActivityIndicator
 } from "react-native";
-import { ExpandableCalendar, Calendar, AgendaList, CalendarProvider } from 'react-native-calendars';
+import { ExpandableCalendar, AgendaList, CalendarProvider } from 'react-native-calendars';
 import { SKYBLUE } from '../constants/colors';
 
 
