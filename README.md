@@ -3,6 +3,12 @@
 A React Native application that shows a list of users and time ranges during which they were active on the a day, with an option to view all the periods of
 activity for different days using a calendar.
 
+<b>Instructions to run the application</b>
+* Download the code
+* Assuming your system has setup for running a react native project.
+* Inside the project folder execute the command: npm run android
+* This will bulid the project and execute it on an emulator/connected device.
+
 ![Home screen](assets/Homescreen.png)
 ![Details screen](assets/Detailscreen.png)
 
