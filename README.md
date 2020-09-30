@@ -3,6 +3,9 @@
 A React Native application that shows a list of users and time ranges during which they were active on the a day, with an option to view all the periods of
 activity for different days using a calendar.
 
+![Home screen](assets/Homescreen.png)
+![Details screen](assets/Detailscreen.png)
+
 <b>Libraries used:</b>
 * [react-navigation](https://github.com/react-navigation/react-navigation)
 * [lodash](https://github.com/lodash/lodash)
