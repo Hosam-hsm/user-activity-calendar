@@ -4,10 +4,10 @@ A React Native application that shows a list of users and time ranges during whi
 activity for different days using a calendar.
 
 Libraries used:
-* react-navigation: for navigations
-* lodash: for helper functions
-* react-native-calendars: for calendar
-* react-native-vector-icons: for icons
+* [react-navigation](https://github.com/react-navigation/react-navigation)
+* [lodash](https://github.com/lodash/lodash): for helper functions
+* [react-native-calendars](https://github.com/wix/react-native-calendars)
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 Screens:
 * Home screen: shows the list of users
